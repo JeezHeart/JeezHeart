@@ -1,6 +1,6 @@
 <img src="https://github.com/JeezHeart/zoro-banner/blob/main/zoro-banner.gif?raw=true" width="100%" alt="Zoro Banner" />
 
-<img height="72" src="https://img.shields.io/badge/TECH_STACK-111827?style=for-the-badge" alt="TECH STACK" />
+<img height="84" src="https://img.shields.io/badge/TECH_STACK-111827?style=for-the-badge" alt="TECH STACK" />
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
