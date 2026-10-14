@@ -1,14 +1,5 @@
 <img src="https://github.com/JeezHeart/zoro-banner/blob/main/zoro-banner.gif?raw=true" width="100%" alt="Zoro Banner" />
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=500&lines=Roronoa+Zoro+fan+%E2%9A%94%EF%B8%8F;React+Developer;Training+to+be+the+best)](https://git.io/typing-svg)
-
-![Profile views](https://komarev.com/ghpvc/?username=JeezHeart&color=7dd3fc&style=flat)
-[![Followers](https://img.shields.io/github/followers/JeezHeart?style=flat&color=7dd3fc)](https://github.com/JeezHeart?tab=followers)
-
-</div>
-
 ## 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -26,10 +17,18 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JeezHeart&show_icons=true&theme=tokyonight&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JeezHeart&theme=tokyonight" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JeezHeart&show_icons=true&theme=tokyonight&rank_icon=github" />
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=JeezHeart&theme=tokyonight" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeezHeart&layout=compact&theme=tokyonight" />
+</div>
+
+<div align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeezHeart&layout=compact&theme=tokyonight" />
+
+</div>
+
+<div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JeezHeart&theme=tokyo-night" />
 
