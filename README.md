@@ -1,6 +1,6 @@
 <img src="https://github.com/JeezHeart/zoro-banner/blob/main/zoro-banner.gif?raw=true" width="100%" alt="Zoro Banner" />
 
-![Tech Stack](https://img.shields.io/badge/TECH_STACK-111827?style=for-the-badge)
+<img height="48" src="https://img.shields.io/badge/TECH_STACK-111827?style=for-the-badge" alt="TECH STACK" />
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -23,7 +23,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
-![GitHub Stats](https://img.shields.io/badge/GITHUB_STATS-111827?style=for-the-badge)
+<img height="48" src="https://img.shields.io/badge/GITHUB_STATS-111827?style=for-the-badge" alt="GITHUB STATS" />
 
 <div align="center">
 
