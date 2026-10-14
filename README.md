@@ -23,4 +23,3 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
-<img width="100%" src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contributions" />
