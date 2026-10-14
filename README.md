@@ -25,23 +25,20 @@
 
 <img height="72" src="https://img.shields.io/badge/GITHUB_STATS-111827?style=for-the-badge" alt="GITHUB STATS" />
 
-<div align="center">
+![Total Stars Earned 0](https://img.shields.io/badge/Total_Stars_Earned_0-70A5FD?style=for-the-badge)
+![Total Commits 41](https://img.shields.io/badge/Total_Commits_41-38BDAE?style=for-the-badge)
+![Total PRs 1](https://img.shields.io/badge/Total_PRs_1-BF91F3?style=for-the-badge)
+![Total Issues 1](https://img.shields.io/badge/Total_Issues_1-70A5FD?style=for-the-badge)
+![Contributed to 1](https://img.shields.io/badge/Contributed_to_1-38BDAE?style=for-the-badge)
+![Total Contributions 52](https://img.shields.io/badge/Total_Contributions_52-BF91F3?style=for-the-badge)
+![Current Streak 1](https://img.shields.io/badge/Current_Streak_1-70A5FD?style=for-the-badge)
+![Longest Streak 5](https://img.shields.io/badge/Longest_Streak_5-38BDAE?style=for-the-badge)
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JeezHeart&show_icons=true&theme=tokyonight&rank_icon=github" />
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=JeezHeart&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeezHeart&layout=compact&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JeezHeart&theme=tokyo-night" />
-
-</div>
+![Dart 28.28%](https://img.shields.io/badge/Dart_28.28%25-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![CSS 23.99%](https://img.shields.io/badge/CSS_23.99%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript 23.13%](https://img.shields.io/badge/JavaScript_23.13%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML 19.22%](https://img.shields.io/badge/HTML_19.22%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PHP 3.88%](https://img.shields.io/badge/PHP_3.88%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++ 1.51%](https://img.shields.io/badge/C%2B%2B_1.51%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ![Snake animation](https://github.com/JeezHeart/JeezHeart/blob/output/github-contribution-grid-snake.svg)
